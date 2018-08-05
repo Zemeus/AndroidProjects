@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homeschool helper</string>
+    <string name="submit_button">submit_button</string>
+    <string name="select_child">select child</string>
+    <string name="add_new_button">add_new_button</string>
+    <string name="select_subject">select subject</string>
+</resources>

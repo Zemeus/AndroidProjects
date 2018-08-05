@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paw Patrol Image Switcher</string>
+    <string name="switchBtn">Switch</string>
+    <string name="paw_patrol_characters">Paw Patrol Characters</string>
+</resources>
